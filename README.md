@@ -34,18 +34,13 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
 **25 Aug 2021. Version 4.001**
 - First check-in
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at
-https://scripts.sil.org/OFL
+This Font Software is licensed under the Apache License, Version 2.0.
+This license is available at http://www.apache.org/licenses/
 
 ## Repository Layout
 
