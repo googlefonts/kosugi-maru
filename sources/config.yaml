@@ -2,3 +2,4 @@ sources:
   - KosugiMaru.glyphs
 familyName: Kosugi Maru
 buildVariable: False
+autohintTTF: False
